@@ -499,6 +499,15 @@ h1 {
   margin: 6px 0 4px;
 }
 
+.cert {
+  display: block;
+}
+
+.cert .view {
+  color: var(--accent-2);
+  font-size: 14px;
+}
+
 /* Contact */
 .contact .section-title {
   justify-content: center;
